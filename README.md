@@ -1,2 +1,2 @@
 # BFS
-csolving a maze using bfs
+solving a maze using bfs
